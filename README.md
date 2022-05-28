@@ -1,4 +1,4 @@
-### Olá mundo ! Eu sou Whandell Souto Maior 😄 
+## Olá mundo ! Eu sou Whandell Souto Maior 😄 
 
 <!--
 **Whandellg/Whandellg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com SpringBoot, Angular, Scrum Master e UI Design.
-- 🌱 Estudando Angular 
+- 🌱 Estudando: Angular 
 - 🌱 Atualizando aos poucos o Github
 
 -->
