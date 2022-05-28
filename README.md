@@ -5,7 +5,7 @@
 - 🌱 Atualizando aos poucos o Github
 
 <div align="center">
-  <a href="(https://github.com/Whandellg/Whandellg)">
+  <a href="https://github.com/Whandellg/Whandellg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whandellg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whandellg&layout=compact&langs_count=7&theme=dark"/>
 </div>
