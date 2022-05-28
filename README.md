@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com SpringBoot, Angular, Scrum Master e UI Design.
-- 🌱 Estudando Angular ...
-
+- 🌱 Estudando Angular 
+- 🌱 Atualizando aos poucos o Github
 
 -->
 
