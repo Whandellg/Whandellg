@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Whan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
 </div> 
 
-##<div>Contatos</div>
+
 
 <div> 
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCFAPQS_gPgCFgNmHlDqGNIQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
