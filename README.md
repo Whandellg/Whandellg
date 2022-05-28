@@ -31,6 +31,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Whan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
   <img align="center" alt="Whan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img align="center" alt="Whan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-          
-  <img align="right" alt="Whan-pic" height="150" style="border-radius:50px;" 
+
 </div>
