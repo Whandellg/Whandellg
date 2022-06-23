@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com SpringBoot, Angular, Scrum Master e UI Design.
 - 🌱 Estudando: Angular 
 - 🌱 Atualizando aos poucos o Github
+- 🌱 Maioria dos repositorios privados
 
 <div align="center">
   <a href="https://github.com/Whandellg/Whandellg">
