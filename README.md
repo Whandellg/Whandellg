@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com SpringBoot, Angular, Scrum Master e UI Design.
 - 🌱 Estudando: Angular 
-- 🌱 Atualizando aos poucos o Github
+- 🌱 Portfolio: https://www.figma.com/file/wLt8AiwsBTuTIT8XOB554K/Whandell-Portfolio?node-id=0%3A1
 - 🌱 Maioria dos repositorios privados
 
 <div align="center">
