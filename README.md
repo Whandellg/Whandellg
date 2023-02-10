@@ -1,4 +1,4 @@
-## Hello World ! Eu sou Whandell Souto Maior 😄 
+## Hello World ! i'm Whandell Souto Maior 😄 
 
 - 🔭 Hoje trabalho com SpringBoot e VueJs.
 - 🌱 Estudando: VueJs
