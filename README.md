@@ -1,9 +1,10 @@
 ## Hello World ! i'm Whandell Souto Maior 😄 
 
-- 🔭 Hoje trabalho com SpringBoot e Analise de dados.
-- 🌱 Estudando: ETL
-- 🌱 Portfolio: https://www.figma.com/file/wLt8AiwsBTuTIT8XOB554K/Whandell-Portfolio?node-id=0%3A1
-- 🌱 Maioria dos repositorios privados
+🔭 Analista de dados.
+📈 Me preparando para certificações na área
+💻 Principais linguagens de programação são SQL e Python
+🚀 Estou à procura de crescimento na área de dados.
+🎓 Inglês intermediario
 
 <div align="center">
   <a href="https://github.com/Whandellg/Whandellg">
