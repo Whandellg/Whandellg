@@ -1,9 +1,9 @@
 ## Hello World ! i'm Whandell Souto Maior 😄 
 
 🔭 Analista de dados. <br>
-📈 Me preparando para certificações na área
-💻 Principais linguagens de programação são SQL e Python
-🚀 Estou à procura de crescimento na área de dados.
+📈 Me preparando para certificações na área <br>
+💻 Principais linguagens de programação são SQL e Python <br>
+🚀 Estou à procura de crescimento na área de dados. <br>
 🎓 Inglês intermediario
 
 <div align="center">
